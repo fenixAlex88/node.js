@@ -21,6 +21,7 @@ console.log(myHobbies);
 console.log(myFavoritNumber);
 
 myHobbies.push('climbing');
+ 
 
 greetingFn(myName);
 
